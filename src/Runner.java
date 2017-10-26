@@ -17,6 +17,8 @@ public class Runner {
 		Utils.pokazZawartoscPlyty(plyta);
 		
 		Utils.szukajNajdluzszyUtwor(plyta);
+		
+		System.out.println(" ");
 	}
 
 }
